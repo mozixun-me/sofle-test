@@ -5,9 +5,9 @@ manifest:
     - name: Chatblanc77
       url-base: https://github.com/Chatblanc77
   projects:
-    - name: zmk-config
+    - name: zmk
       remote: Chatblanc77
-      revision: sofle-v2
+      revision: sofle
       import: app/west.yml
   self:
     path: config
