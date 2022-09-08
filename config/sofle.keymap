@@ -10,13 +10,13 @@
 #include <dt-bindings/zmk/rgb.h>
 #include <dt-bindings/zmk/ext_power.h>
 
+&left_encoder { resolution = <1>; };
+&right_encoder { resolution = <1>; };
+
 #define BASE 0
 #define LOWER 1
 #define RAISE 2
 #define ADJUST 3
-
-&left_encoder { resolution = <1>; };
-&right_encoder { resolution = <1>; };
 
 / {
 
