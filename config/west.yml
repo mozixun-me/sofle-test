@@ -2,11 +2,11 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: chatblanc77
-      url-base: https://github.com/chatblanc77
+    - name: Chatblanc77
+      url-base: https://github.com/Chatblanc77
   projects:
     - name: zmk-config
-      remote: chatblanc77
+      remote: Chatblanc77
       revision: sofle-v2
       import: app/west.yml
   self:
