@@ -113,9 +113,9 @@
           Davinci_layer {
 // ------------------------------------------------------------------------------------------------------------
 // |  ESC |       |       |       |       | HILIGHT|                |      |      |RENDER |      |       |       |
-// |      |       |  REF  |       |       | TRIM   |                |      |      |IMPORT |      |       |       |
-// |      |       |       |       |       |        |                |      |      |       |      |       |       |
-// |      |       |       |       |       |        |       | |      |      |      |       |      |       |       |
+// |      |       |  REF  |   <   |   >   | TRIM   |                |      |      |IMPORT |      |       |       |
+// |      |   A   | LEFT  |  D    | RIGHT |        |                |      |      |       |      |       |       |
+// |      |       |       | COPPY | PASTE |        |       | |      |      |      |       |      |       |       |
 //                |       |       |       |        |       | |      |      |      |       |      |       |       |
         bindings = <
 &gresc        &none      &none       &none      &none       &kp LA(LS(H))                      &none  &none  &kp RS(N8)    &none  &none &none
