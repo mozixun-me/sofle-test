@@ -49,7 +49,7 @@
 &gresc    &mt LSHIFT N1 &mt LSHIFT N2 &mt LCTRL N3   &mt LCTRL N4  &mt LCTRL N5                   &mt RCTRL N6 &kp N7  &mt LSHIFT N8 &kp N9   &mt LSHIFT N0 &bdel
 &kp TAB   &kp Q         &kp W         &kp E          &kp R         &kp T                          &kp Y        &kp U   &kp I         &kp O    &kp P         &kp MINUS
 &kp CLCK  &kp A         &kp S         &kp D          &kp F         &kp G                          &kp H        &kp J   &kp K         &kp L    &kp SEMI      &kp SQT
-&kp LSHFT &kp Z         &kp X         &kp C          &kp V         &kp B   &kp C_MUTE &lt DAVINCI &kp N        &kp M   &kp COMMA     &kp DOT  &kp FSLH      &kp EQUAL
+&kp LSHFT &kp Z         &kp X         &kp C          &kp V         &kp B   &kp C_MUTE &to DAVINCI &kp N        &kp M   &kp COMMA     &kp DOT  &kp FSLH      &kp EQUAL
                         &kp LCTRL     &kp LGUI       &kp LALT      &mo LOWER &kp RET  &kp SPACE   &mo RAISE    &kp DEL &kp LEFT      &kp RIGHT
             >;
 
