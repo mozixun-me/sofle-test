@@ -111,7 +111,7 @@
 // |      |       |       | COPPY | PASTE |        |       | |      |      |      |       |      |       |       |
 //                |       |       |       |        |       | |      |      |      |       |      |       |       |
         bindings = <
-&gresc        &none      &none       &none      &none       &kp LA(LS(H))                      &none  &none  &kp RS(N8)    &none  &none &none
+&gresc        &none      &none       &none      &none       &kp LA(LS(H))                      &none  &none  &kp RS(N8)    &none  &none &bdel
 &none         &none      &kp LC(W)   &kp COMMA  &kp DOT     &kp T                              &none  &none  &kp RC(RS(I)) &none  &none &none
 &none         &kp A      &kp LEFT    &kp D      &kp RIGHT   &none                              &none  &none  &none         &none  &none &none
 &trans        &none      &none       &kp LC(C)  &kp LC(V)   &none         &none     &trans     &none  &none  &none         &none  &none &none
