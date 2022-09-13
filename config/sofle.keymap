@@ -20,10 +20,6 @@
 #define ADJUST 3
 #define DAVINCI 4
 
-&mt {
-    tapping-term-ms = <400>;
-};
-
 / {
 
    // Activate ADJUST layer by pressing raise and lower
