@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: Chatblanc77
-      revision: sofle-encoder
+      revision: sofle
       import: app/west.yml
   self:
     path: config
